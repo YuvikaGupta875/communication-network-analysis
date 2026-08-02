@@ -105,4 +105,4 @@ streamlit run app.py
 - Edge Filtering
 - Dynamic Community Evolution
 
-## Deployed Link: https://communication-network-analysis-jnkpyb5mffp6g6ibu7yi9c.streamlit.app/
+Deployed Link: https://communication-network-analysis-jnkpyb5mffp6g6ibu7yi9c.streamlit.app/
